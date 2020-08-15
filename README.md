@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Language and Tools:
+#### Stats:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corast&layout=compact&count_private=true&hide=c%23,ShaderLab)](https://github.com/anuraghazra/github-readme-stats)
